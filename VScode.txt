@@ -1,50 +1,50 @@
-VScode	�ļ�����������������
-	1.�����ļ�����(һ������)��"files.autoGuessEncoding":true
-	2.���½Ǹ����ļ������ʽ
-	3.�޸������ļ���"files.encoding"��"gbk"
+VScode	文件打开中文乱码解决方法
+	1.配置文件添加(一劳永逸)："files.autoGuessEncoding":true
+	2.左下角更改文件编码格式
+	3.修改配置文件："files.encoding"："gbk"
  
 
-VS CODE ���
-	������
+VS CODE 插件
+	主题插件
 		Dracula Official
 		OneDark-Pro
 		One Monokai Theme
-	�ļ�ͼ��
+	文件图标
 		vscode-icons
 		Material Icon
 
-	��������
-		Bracket Pair Colorizer	�������ţ�ÿһ�����ŵ���ɫ����һ���������Ķ�����
+	其他功能
+		Bracket Pair Colorizer	区分括号，每一对括号的颜色都不一样，方便阅读代码
 
-		open in browser		������д򿪵�ǰ�༭��HTML�ļ��������и�ȱ��������ڱ��ش򿪵Ĳ����ڷ���������򿪵�
+		open in browser		浏览器中打开当前编辑的HTML文件，不过有个缺点就是是在本地打开的不是在服务器上面打开的
 
-		Debugger for Chrome	ֱ����vscode������е���js�ļ������ȸ�Ŀ���̨��һ���Ĺ��ܣ����������Ͳ��ô�������Ŀ���̨���ܽ��д�ϵ㡣
+		Debugger for Chrome	直接在vscode里面进行调试js文件，跟谷歌的控制台是一样的功能，下载了它就不用打开浏览器的控制台就能进行打断点。
 
-		Auto Close Tag		HTML���Զ��γɱ�ǩ�Ľ�β
+		Auto Close Tag		HTML的自动形成标签的结尾
 
-		Auto Rename Tag		��дHTML˫��ǩʱ������Ҫ�ı�ǩ��ʱֻ��Ҫ������һ����ǩ��һ����ʼ���߽�����ǩ�ͻ��Զ��޸�
+		Auto Rename Tag		编写HTML双标签时遇到需要改标签名时只需要改其中一个标签另一个开始或者结束标签就会自动修改
 
-		IntelliSense for CSS class names in HTML		������class���ֵĲ��������㻹��Ϊȡʲô���������յĻ����������ɣ���������㵱ǰ�Ļ����Լ�������׸���ĸ�Զ�Ϊ���Ƽ�class����
+		IntelliSense for CSS class names in HTML		方便起class名字的插件，如果你还在为取什么类名而烦恼的话就下载他吧，它会根据你当前的环境以及输入的首个字母自动为你推荐class类名
 
-		HTML CSS Support		֧��HTML CSS �ı�д
+		HTML CSS Support		支持HTML CSS 的编写
 
-		Color Info			css��ʽ��ɫ����ʾ
+		Color Info			css样式颜色的提示
 
-		CSS Peek			��HTML��������Ƶ������ϰ�סctrl+��������ֱ����ת������������õ���ʽ�ļ�����ʽλ��
+		CSS Peek			在HTML里面鼠标移到类名上按住ctrl+单击，会直接跳转到这个类名设置的样式文件及样式位置
 
-		JavaScript (ES6) code snippets	Ϊ�����дES6д��������㲻��дES6�﷨�ľͲ�Ҫ����
+		JavaScript (ES6) code snippets	为方便编写ES6写法，如果你不想写ES6语法的就不要下载
 
-		jQuery Code Snippets	jQuery�����ߵĸ���
+		jQuery Code Snippets	jQuery爱好者的福音
 
-		File Peek			�����ļ����ӵ�ַ��ʱ�����ʾ
+		File Peek			引入文件链接地址的时候会提示
 
-		filesize			����֮����ڱ༭�������½���ʾ��ǰ�򿪵��ļ��Ĵ�С
+		filesize			下载之后会在编辑器的左下角显示当前打开的文件的大小
 
-		vscode-fileheader		��һ��js��ͷ������ע�Ͱ�ť���Ҿ��úܲ�����һ���������������ҪһЩ���ã���������������ص�ʱ���н�����ô����
+		vscode-fileheader		是一个js的头部生成注释按钮，我觉得很不错的一个插件，这个插件需要一些配置，这个配置在你下载的时候都有教你怎么配置
 
-		beautify			javascript, JSON, CSS, Sass, HTML �������
+		beautify			javascript, JSON, CSS, Sass, HTML 代码高亮
 
-		Settings Sync		�༭������ͬ����������������õȡ�������=��https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+		Settings Sync		编辑器设置同步，包括插件，配置等。详情点击=》https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 
 
