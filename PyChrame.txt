@@ -1,0 +1,28 @@
+Pychrame优化总结
+    https://blog.csdn.net/s464036801/article/details/8109221
+
+启动pycharm时，碰到"failed to load jvm dll"的错误
+	安装Microsoft Visual C++ 2010 Redistributable Package
+		32 bit: http://www.microsoft.com/download/en/details.aspx?id=5555
+		64 bit: http://www.microsoft.com/download/en/details.aspx?id=14632
+	然后再运行pycharm
+	成功解决问题。
+
+PyCharm取消波浪线、下划线和中划线
+	https://blog.csdn.net/xiemanr/article/details/72583718
+
+
+
+
+
+
+
+
+
+
+PyCharm 设置
+    python代码头信息[settings    ==> Editor  ==> File and Code Templates ==> Python Sricpt]
+# !/usr/bin/env python
+# !-*-coding:utf-8 -*-
+# ! created time: $DATE $TIME
+# ! @Author : yangfeng
